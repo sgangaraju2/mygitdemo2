@@ -10,5 +10,7 @@ public class myclass1 {
 		System.out.println("Inside method 1");
 		System.out.println("End of method 1");
 		
+		System.out.println("Cloned");
+		
 	}
 }
