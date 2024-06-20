@@ -9,6 +9,7 @@ public class myclass2 {
 	{
 		System.out.println("Inside method 2");
 		System.out.println("EGIT");
+		System.out.println("EGIT End");
 		
 	}
 }
