@@ -1,0 +1,13 @@
+package gitProjectPackage;
+
+import org.testng.annotations.Test;
+
+public class myclass2 {
+
+	@Test
+	public void method2()
+	{
+		System.out.println("Inside method 2");
+		
+	}
+}
