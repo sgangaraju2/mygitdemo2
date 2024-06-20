@@ -8,6 +8,7 @@ public class myclass2 {
 	public void method2()
 	{
 		System.out.println("Inside method 2");
+		System.out.println("EGIT");
 		
 	}
 }
