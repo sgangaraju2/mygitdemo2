@@ -8,6 +8,7 @@ public class myclass1 {
 	public void method1()
 	{
 		System.out.println("Inside method 1");
+		System.out.println("End of method 1");
 		
 	}
 }
