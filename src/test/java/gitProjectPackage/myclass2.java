@@ -11,6 +11,8 @@ public class myclass2 {
 		System.out.println("EGIT");
 		System.out.println("EGIT End");
 		System.out.println("Feature branch");
+		System.out.println("Task 2");
+		System.out.println("Task 3");
 		
 	}
 }
